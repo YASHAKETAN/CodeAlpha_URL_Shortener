@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: url(assets/pxfuel.jpg);
+   
     
 }
 
@@ -14,7 +14,7 @@ body {
     display: grid;
     justify-content: center;
     align-items: center;
-    
+     background: url(assets/pxfuel.jpg);
     background-position: 0 ;
 }
 
